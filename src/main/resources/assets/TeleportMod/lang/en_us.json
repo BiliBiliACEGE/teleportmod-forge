@@ -1,0 +1,5 @@
+{
+  "Command.pot.error.info": "Coordinates are beyond the borders of the world!",
+  "command.error.info": "An error has occurred: %s",
+  "command.player.error.info": "The player does not exist or is not online!"
+}

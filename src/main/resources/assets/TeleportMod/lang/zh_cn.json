@@ -1,0 +1,5 @@
+{
+  "Command.pot.error.info": "坐标超出世界边界！",
+  "command.error.info": "发生错误：%s",
+  "command.player.error.info": "玩家不存在或未在线！"
+}
